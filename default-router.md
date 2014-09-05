@@ -3,7 +3,9 @@ default router
 
 - **objective**: what is and how works a *default router*.
 - **topic**:  networking
-- **requisites**: [forwarding](forwarding)
+- **requisites**: [forwarding](forwarding.md)
+
+
 - **synonym**: *default gateway*
 
 
@@ -11,16 +13,16 @@ Definition
 ----------
 
 In internetworking parlance, **default router** is a router configured as fallback
-[next hop](routing-table) in any other router or computer.
+[next hop](routing-table.md) in any other router or computer.
 
 ---
 
-Any [routing table](routing-table) (also called [forwarding table](routing-table)) is
-composed by rows. Each row determines a:
+Any [routing table](routing-table.md) (also called [forwarding table](routing-table.md))
+is composed by rows. Each row determines a:
 
-- [direct delivery](direct-delivery) when the packet destination is a neighbor, or
-- [indirect delivery](indirect-delivery) when the destination is in other network and the
-  packet must be sent to a router in behalf.
+- [direct delivery](direct-delivery.md) when the packet destination is a neighbor, or
+- [indirect delivery](indirect-delivery.md) when the destination is in other network and
+  the packet must be sent to a router in behalf.
 
 The routing table is sequentially processed so if a row matches, the rest of rows are
 skipped. The **default router** is a special row in the table that specify a router that
