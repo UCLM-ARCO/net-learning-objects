@@ -1,17 +1,17 @@
 default router
 ==============
 
-- **objective**: what is and how works a **default router**.
+- **objective**: what is and how works a *default router*.
 - **topic**:  networking
-- **requisites**: [IP fundamentals](ip-fundamentals)
+- **requisites**: [forwarding](forwarding)
 - **synonym**: *default gateway*
 
 
 Definition
 ----------
 
-In internetworking parlance, **default router** (also called *default gateway*) is a
-router configured as fallback [next hop](routing-table) in any other router or computer.
+In internetworking parlance, **default router** is a router configured as fallback
+[next hop](routing-table) in any other router or computer.
 
 ---
 
@@ -39,4 +39,5 @@ default router is usually located at the end but it is not mandatory.
 References
 ----------
 
-* <http://en.wikipedia.org/wiki/Default_route>
+* <http://en.wikipedia.org/wiki/Default_gateway>
+* <http://www.ietf.org/rfc/rfc1519.txt>
