@@ -4,13 +4,12 @@ direct delivery
 - **objective**: what is the directy packet delivery mechanism.
 - **topic**:  networking
 - **requisites**: [neighbor discovery](neighbor-discovery.md)
-
 - **related**: [indirect delivery](indirect-delivery.md)
 
 Definition
 ----------
 
-When the source and destination of an IP packet are connected to me same network, the
+When the source and destination of an IP packet are connected to the same network, the
 source send the packet directly to the destination [NIC](NIC). That is, there are no
 intermediaries between the involved hosts.
 
@@ -25,7 +24,7 @@ network).
 In that case, the source encapsulate the IP packet over a frame. The frame format depends
 the LAN or local link protocol. Usually that requires put the destination physical address
 in the frame, so this operation implies a [neighbor discovery](neighbor-discovery.md)
-mechanism, for example [ARP](ARP.md).
+mechanism, for example, [ARP](ARP.md).
 
 In the following routing table, the first row represents a *directy delivery* over the
 network 200.1.2.0/24.

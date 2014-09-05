@@ -7,6 +7,7 @@ all: $(TARGET)
 
 %.html: %.md
 	pandoc $< > $@
+	sed -i s/\.md/\.html/g $@
 
 clean:
 	$(RM) $(TARGET) *~
