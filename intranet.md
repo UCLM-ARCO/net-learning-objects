@@ -9,4 +9,5 @@ intranet
 Definition
 ----------
 
-An *intranet* is a portion of the [Internet](Internet.md) that is separately administered and has a boundary that can be configured to enforce local security policies. [[Coulouris01](bib#coulouris01)]
+An *intranet* is a portion of the [Internet](Internet.md) that is separately administered and has a boundary that can be configured to enforce local 
+security policies. [[Coulouris01](bib#coulouris01)]
