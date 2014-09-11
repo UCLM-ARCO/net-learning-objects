@@ -85,6 +85,7 @@ private networks
 
 * [NAT](NAT.md)
 * [private network](private-network.md)
+* [intranet](intranet.md)
 * [VPN](VPN.md)
 * [tunneling](tunneling.md)
 
