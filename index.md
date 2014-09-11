@@ -38,7 +38,7 @@ data link layer
 network layer
 -------------
 
-* [Internet](internet.html)
+* [Internet]Iinternet.md)
 * [internetworking and peer to peer delivery](internetworking and peer to peer delivery.md)
 * [logical addressing (hierarchical addressing.md)](logical addressing (hierarchical addressing.md).md)
 * [neighbor discovery](neighbor-discovery.md)
