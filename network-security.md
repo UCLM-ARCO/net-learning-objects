@@ -9,7 +9,7 @@ network security
 Definition
 ----------
 
-Preservation of confidentiality, integrity and availability of a network resources. 
+Preservation of confidentiality, integrity and availability of network resources. 
 Those resource include data, software and hardware both computers and communication devices.
 
 References
