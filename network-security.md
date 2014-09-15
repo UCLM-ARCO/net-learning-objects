@@ -3,7 +3,7 @@ network security
 
 - **objective**: what we mean by *network security* 
 - **topic**:  networking
-- **related**: <confidentiality.md> | <integrity.md> | <availability.md>
+- **related**: [confidentiality](confidentiality.md) | [integrity](integrity.md) | [availability](availability.md)
 
 
 Definition
