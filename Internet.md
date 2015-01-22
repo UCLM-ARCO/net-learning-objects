@@ -15,7 +15,7 @@ Definition
 
 *Internet* provides the mechanism to send IP packets from any connected computer on the world to any other ([peer-to-peer](peer-to-peer.md)).
 
-*internet* is not the same that [web](web.md). The web (WWW) is just one of the thousands of services that may run over *Internet* or any other IP network.
+*Internet* is not the same that [web](web.md). The web (WWW) is just one of the thousands of services that may run over *Internet* or any other IP network.
 
 
 References
