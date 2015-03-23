@@ -1,3 +1,21 @@
+important concepts (to be classified)
+-------------------------------------
+
+* circuit switching
+* virtual circuit switching
+* cell switching
+* packet switching
+* diffusion link
+* point to point link
+* flow control
+* error control
+* congestion control
+* connection oriented service (CO-mode)
+* connectionless service (CL-mode)
+* collision domain
+* broadcast domain
+
+
 intro
 -----
 
