@@ -105,7 +105,7 @@ private networks
 * [private network](private-network.md)
 * [intranet](intranet.md)
 * [VPN](VPN.md)
-* [tunneling](tunneling.md)
+* [tunnel](tunneling.md)
 
 
 core applications
